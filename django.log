@@ -1,0 +1,3416 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+Unauthorized: /api/events/
+Unauthorized: /api/campaigns/
+Unauthorized: /api/news/
+"GET /api/campaigns/ HTTP/1.1" 401 27
+"GET /api/events/ HTTP/1.1" 401 27
+"GET /api/news/ HTTP/1.1" 401 27
+Unauthorized: /api/news/
+Unauthorized: /api/campaigns/
+"GET /api/news/ HTTP/1.1" 401 27
+"GET /api/campaigns/ HTTP/1.1" 401 27
+Unauthorized: /api/events/
+"GET /api/events/ HTTP/1.1" 401 27
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/register/ HTTP/1.1" 200 0
+"POST /api/auth/register/ HTTP/1.1" 201 158
+Bad Request: /api/auth/register/
+"POST /api/auth/register/ HTTP/1.1" 400 58
+"OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 401 31
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/events/ HTTP/1.1" 200 224
+Unauthorized: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 401 31
+"POST /api/auth/login/ HTTP/1.1" 200 158
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /admin/ngo/event/ HTTP/1.1" 200 14439
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/event/1/change/ HTTP/1.1" 200 14882
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/1/change/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 14634
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/news/ HTTP/1.1" 200 12171
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/news/add/ HTTP/1.1" 200 14141
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/news/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/news/ HTTP/1.1" 200 14027
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/events/ HTTP/1.1" 200 10238
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2528
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /media/events/FOOD.jpeg HTTP/1.1" 200 8047
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /media/events/FOOD.jpeg HTTP/1.1" 304 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /media/news/6.jpg HTTP/1.1" 200 27709
+"GET /admin/ngo/userprofile/ HTTP/1.1" 200 12442
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/userprofile/1/change/ HTTP/1.1" 200 13142
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 12639
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 14372
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/newsletter/ HTTP/1.1" 200 13977
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/newsletter/add/ HTTP/1.1" 200 13463
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/newsletter/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/newsletter/ HTTP/1.1" 200 15963
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/news/ HTTP/1.1" 200 15566
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/eventregistration/ HTTP/1.1" 200 13737
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/eventregistration/add/ HTTP/1.1" 200 14691
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/eventregistration/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/eventregistration/ HTTP/1.1" 200 15734
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 14372
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/add/ HTTP/1.1" 200 16848
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/campaign/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 16863
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donation/ HTTP/1.1" 200 13639
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donation/add/ HTTP/1.1" 200 15276
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/donation/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/donation/ HTTP/1.1" 200 15777
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"GET /api/events/ HTTP/1.1" 200 224
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /api/campaigns/ HTTP/1.1" 200 281
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /api/campaigns/ HTTP/1.1" 200 281
+"GET /media/campaigns/burger.jpg HTTP/1.1" 200 39561
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /media/events/FOOD.jpeg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 281
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /api/campaigns/ HTTP/1.1" 200 281
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /media/campaigns/burger.jpg HTTP/1.1" 304 0
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /media/events/FOOD.jpeg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 281
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /api/campaigns/ HTTP/1.1" 200 281
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /media/campaigns/burger.jpg HTTP/1.1" 304 0
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /media/news/6.jpg HTTP/1.1" 304 0
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /api/campaigns/ HTTP/1.1" 200 281
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/events/ HTTP/1.1" 200 224
+"GET /api/news/ HTTP/1.1" 200 282
+"GET /api/campaigns/ HTTP/1.1" 200 281
+"GET /media/campaigns/burger.jpg HTTP/1.1" 304 0
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\migrations\__init__.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\migrations\__init__.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2477
+"GET /admin/ngo/donation/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ngo/donation/ HTTP/1.1" 200 4199
+"POST /admin/login/?next=/admin/ngo/donation/ HTTP/1.1" 200 4365
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/ngo/donation/ HTTP/1.1" 302 0
+"GET /admin/ngo/donation/ HTTP/1.1" 200 14357
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/comment/ HTTP/1.1" 200 14346
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/comment/ HTTP/1.1" 200 14346
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/newsletter/ HTTP/1.1" 200 14389
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/newsletter/add/ HTTP/1.1" 200 13875
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /admin/ngo/newsletter/ HTTP/1.1" 200 14389
+"GET /admin/ngo/newsletter/ HTTP/1.1" 200 14389
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/newsletter/ HTTP/1.1" 200 14389
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ngo/news/ HTTP/1.1" 200 14023
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/news/add/ HTTP/1.1" 200 16250
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/news/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/news/ HTTP/1.1" 200 15877
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/comment/ HTTP/1.1" 200 14346
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/comment/add/ HTTP/1.1" 200 17224
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 14784
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/event/ HTTP/1.1" 200 14565
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/event/add/ HTTP/1.1" 200 16642
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 16775
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/events/ HTTP/1.1" 200 215
+"GET /api/events/ HTTP/1.1" 200 215
+"GET /media/events/7.jpg HTTP/1.1" 200 31609
+"GET /admin/ngo/event/1/change/ HTTP/1.1" 200 17011
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/1/change/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 16780
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /media/events/7.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /media/news/FOOD.jpeg HTTP/1.1" 200 8047
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/news/ HTTP/1.1" 200 178
+Watching for file changes with StatReloader
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 401 31
+Unauthorized: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 401 31
+Not Found: /
+"GET / HTTP/1.1" 404 2477
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2528
+"GET /admin/ HTTP/1.1" 200 14029
+"GET /admin/ngo/userprofile/ HTTP/1.1" 200 12909
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/ HTTP/1.1" 200 16455
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/1/change/ HTTP/1.1" 200 29591
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"OPTIONS /api/auth/register/ HTTP/1.1" 200 0
+"POST /api/auth/register/ HTTP/1.1" 201 158
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /admin/auth/user/1/change/ HTTP/1.1" 200 29591
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/ HTTP/1.1" 200 16923
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+Unauthorized: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 401 31
+"POST /api/auth/login/ HTTP/1.1" 200 158
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\apps.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"POST /api/auth/login/ HTTP/1.1" 200 158
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 178
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\migrations\__init__.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"OPTIONS /api/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/profile/ HTTP/1.1" 200 0
+"GET /api/profile/ HTTP/1.1" 200 193
+"GET /api/profile/ HTTP/1.1" 200 193
+"GET /api/profile/ HTTP/1.1" 200 193
+"GET /api/profile/ HTTP/1.1" 200 193
+"OPTIONS /api/my-donations/ HTTP/1.1" 200 0
+"OPTIONS /api/my-donations/ HTTP/1.1" 200 0
+Internal Server Error: /api/my-donations/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: ngo_donation.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py", line 153, in my_donations
+    } for d in donations]
+               ^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: ngo_donation.user_id
+"GET /api/my-donations/ HTTP/1.1" 500 168283
+Internal Server Error: /api/my-donations/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: ngo_donation.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py", line 153, in my_donations
+    } for d in donations]
+               ^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: ngo_donation.user_id
+"GET /api/my-donations/ HTTP/1.1" 500 168283
+Internal Server Error: /api/my-donations/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: ngo_donation.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py", line 153, in my_donations
+    } for d in donations]
+               ^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: ngo_donation.user_id
+"GET /api/my-donations/ HTTP/1.1" 500 168283
+Internal Server Error: /api/my-donations/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: ngo_donation.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py", line 153, in my_donations
+    } for d in donations]
+               ^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: ngo_donation.user_id
+"GET /api/my-donations/ HTTP/1.1" 500 168283
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 178
+"GET /api/events/ HTTP/1.1" 200 218
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 178
+Internal Server Error: /admin/ngo/donation/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: ngo_donation.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 2163, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+                                                           ~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 366, in __len__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: ngo_donation.user_id
+"GET /admin/ngo/donation/ HTTP/1.1" 500 188258
+Internal Server Error: /admin/ngo/donation/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: ngo_donation.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 2163, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+                                                           ~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 366, in __len__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: ngo_donation.user_id
+"GET /admin/ngo/donation/ HTTP/1.1" 500 188395
+Watching for file changes with StatReloader
+"GET /admin/ngo/donation/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ngo/donation/ HTTP/1.1" 200 4199
+"POST /admin/login/?next=/admin/ngo/donation/ HTTP/1.1" 302 0
+"GET /admin/ngo/donation/ HTTP/1.1" 200 14465
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/eventregistration/ HTTP/1.1" 200 14563
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/eventregistration/add/ HTTP/1.1" 200 15480
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/event/ HTTP/1.1" 200 14979
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/event/add/ HTTP/1.1" 200 17056
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 17200
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 15198
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/add/ HTTP/1.1" 200 17674
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/campaign/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 17696
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/campaigns/ HTTP/1.1" 200 266
+"GET /api/events/ HTTP/1.1" 200 227
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 266
+"GET /api/events/ HTTP/1.1" 200 227
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/3.jpg HTTP/1.1" 200 34843
+"GET /api/campaigns/ HTTP/1.1" 200 266
+"GET /api/events/ HTTP/1.1" 200 227
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 227
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 266
+"GET /media/campaigns/3.jpg HTTP/1.1" 304 0
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngobackend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\migrations\__init__.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngobackend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /admin/ngo/campaign/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ngo/campaign/ HTTP/1.1" 200 4199
+"POST /admin/login/?next=/admin/ngo/campaign/ HTTP/1.1" 200 4367
+"POST /admin/login/?next=/admin/ngo/campaign/ HTTP/1.1" 302 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 15598
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/add/ HTTP/1.1" 200 18074
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/campaign/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 18081
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 323
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 323
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 200 34843
+"OPTIONS /api/campaigns/1/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/1/ HTTP/1.1" 200 0
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"OPTIONS /api/create-order/ HTTP/1.1" 200 0
+Unauthorized: /api/create-order/
+"POST /api/create-order/ HTTP/1.1" 401 27
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+Unauthorized: /api/create-order/
+"POST /api/create-order/ HTTP/1.1" 401 27
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+Unauthorized: /api/create-order/
+"POST /api/create-order/ HTTP/1.1" 401 27
+"GET /api/campaigns/ HTTP/1.1" 200 323
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 323
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+Unauthorized: /api/auth/login/
+"POST /api/auth/login/ HTTP/1.1" 401 31
+Internal Server Error: /api/auth/register/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: UNIQUE constraint failed: ngo_userprofile.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py", line 19, in register
+    user = serializer.save()
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+                    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 21, in create
+    UserProfile.objects.create(user=user, phone=phone)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 663, in create
+    obj.save(force_insert=True, using=self.db)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\base.py", line 902, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\base.py", line 1008, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\base.py", line 1169, in _save_table
+    results = self._do_insert(
+        cls._base_manager, using, fields, returning_fields, raw
+    )
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\base.py", line 1210, in _do_insert
+    return manager._insert(
+           ~~~~~~~~~~~~~~~^
+        [self],
+        ^^^^^^^
+    ...<3 lines>...
+        raw=raw,
+        ^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 1868, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1882, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: UNIQUE constraint failed: ngo_userprofile.user_id
+"POST /api/auth/register/ HTTP/1.1" 500 203823
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/auth/register/
+"POST /api/auth/register/ HTTP/1.1" 400 58
+"POST /api/auth/login/ HTTP/1.1" 200 158
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 323
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 323
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 323
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 323
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"POST /api/create-order/ HTTP/1.1" 200 67
+"OPTIONS /api/verify-payment/ HTTP/1.1" 200 0
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 59
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 59
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 59
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 59
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 58
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 77
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 77
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 77
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 77
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 77
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /api/campaigns/1/ HTTP/1.1" 200 321
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 77
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 77
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/create-order/ HTTP/1.1" 200 67
+Bad Request: /api/verify-payment/
+"POST /api/verify-payment/ HTTP/1.1" 400 77
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/campaigns/1/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/1/ HTTP/1.1" 200 0
+Internal Server Error: /api/campaigns/1/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 286, in get
+    return self.retrieve(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 56, in retrieve
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 573, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 59, in get_progress_percentage
+    return round((obj.raised_amount / obj.goal_amount) * 100, 2)
+                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'decimal.Decimal'
+"GET /api/campaigns/1/ HTTP/1.1" 500 126147
+Internal Server Error: /api/campaigns/1/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 286, in get
+    return self.retrieve(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 56, in retrieve
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 573, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 59, in get_progress_percentage
+    return round((obj.raised_amount / obj.goal_amount) * 100, 2)
+                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'decimal.Decimal'
+"GET /api/campaigns/1/ HTTP/1.1" 500 126147
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+Internal Server Error: /api/campaigns/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 59, in get_progress_percentage
+    return round((obj.raised_amount / obj.goal_amount) * 100, 2)
+                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'decimal.Decimal'
+"GET /api/campaigns/ HTTP/1.1" 500 131247
+Internal Server Error: /api/campaigns/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 59, in get_progress_percentage
+    return round((obj.raised_amount / obj.goal_amount) * 100, 2)
+                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'decimal.Decimal'
+"GET /api/campaigns/ HTTP/1.1" 500 131247
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+Internal Server Error: /api/campaigns/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 59, in get_progress_percentage
+    return round((obj.raised_amount / obj.goal_amount) * 100, 2)
+                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'decimal.Decimal'
+"GET /api/campaigns/ HTTP/1.1" 500 131247
+Internal Server Error: /api/campaigns/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 59, in get_progress_percentage
+    return round((obj.raised_amount / obj.goal_amount) * 100, 2)
+                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'decimal.Decimal'
+"GET /api/campaigns/ HTTP/1.1" 500 131247
+Watching for file changes with StatReloader
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+Internal Server Error: /api/campaigns/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 59, in get_progress_percentage
+    return round((obj.raised_amount / obj.goal_amount) * 100, 2)
+                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'decimal.Decimal'
+"GET /api/campaigns/ HTTP/1.1" 500 131247
+Internal Server Error: /api/campaigns/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 59, in get_progress_percentage
+    return round((obj.raised_amount / obj.goal_amount) * 100, 2)
+                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'decimal.Decimal'
+"GET /api/campaigns/ HTTP/1.1" 500 131247
+"GET /admin/ngo/campaign/1/change/ HTTP/1.1" 200 18481
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/campaign/1/change/ HTTP/1.1" 302 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 18082
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+Internal Server Error: /api/campaigns/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 59, in get_progress_percentage
+    return round((obj.raised_amount / obj.goal_amount) * 100, 2)
+                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'decimal.Decimal'
+"GET /api/campaigns/ HTTP/1.1" 500 131247
+Internal Server Error: /api/campaigns/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py", line 59, in get_progress_percentage
+    return round((obj.raised_amount / obj.goal_amount) * 100, 2)
+                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'float' and 'decimal.Decimal'
+"GET /api/campaigns/ HTTP/1.1" 500 131247
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 320
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 320
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/1/ HTTP/1.1" 200 318
+"GET /api/campaigns/1/ HTTP/1.1" 200 318
+"OPTIONS /api/create-order/ HTTP/1.1" 200 0
+"POST /api/create-order/ HTTP/1.1" 200 56
+"POST /api/create-order/ HTTP/1.1" 200 56
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /api/create-order/ HTTP/1.1" 200 67
+"OPTIONS /api/verify-payment/ HTTP/1.1" 200 0
+"POST /api/verify-payment/ HTTP/1.1" 200 97
+"OPTIONS /api/my-donations/ HTTP/1.1" 200 0
+"OPTIONS /api/my-donations/ HTTP/1.1" 200 0
+"GET /api/my-donations/ HTTP/1.1" 200 1207
+"GET /api/my-donations/ HTTP/1.1" 200 1207
+"GET /api/my-donations/ HTTP/1.1" 200 1207
+"GET /api/my-donations/ HTTP/1.1" 200 1207
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 322
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 322
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /admin/ngo/donation/ HTTP/1.1" 200 20071
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 17882
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/1/change/ HTTP/1.1" 200 18482
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 322
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 322
+"POST /admin/ngo/campaign/1/change/ HTTP/1.1" 200 18708
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /admin/ngo/campaign/1/change/ HTTP/1.1" 302 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 18083
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/1/change/ HTTP/1.1" 200 18377
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donation/ HTTP/1.1" 200 20089
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donation/9/change/ HTTP/1.1" 200 19775
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/donation/9/change/ HTTP/1.1" 302 0
+"GET /admin/ngo/donation/ HTTP/1.1" 200 20301
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 17882
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/add/ HTTP/1.1" 200 17970
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/campaign/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 18646
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 200 156177
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/1/ HTTP/1.1" 200 320
+"GET /api/campaigns/1/ HTTP/1.1" 200 320
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"OPTIONS /api/campaigns/2/ HTTP/1.1" 200 0
+"GET /api/campaigns/2/ HTTP/1.1" 200 292
+"GET /api/campaigns/2/ HTTP/1.1" 200 292
+Unauthorized: /api/create-order/
+"POST /api/create-order/ HTTP/1.1" 401 27
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/news/ HTTP/1.1" 200 2
+- Broken pipe from ('127.0.0.1', 5978)
+- Broken pipe from ('127.0.0.1', 11680)
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/2/ HTTP/1.1" 200 292
+"GET /api/campaigns/2/ HTTP/1.1" 200 292
+Unauthorized: /api/create-order/
+"POST /api/create-order/ HTTP/1.1" 401 27
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/campaigns/1/ HTTP/1.1" 200 320
+"GET /api/campaigns/1/ HTTP/1.1" 200 320
+Unauthorized: /api/create-order/
+"POST /api/create-order/ HTTP/1.1" 401 27
+Unauthorized: /api/create-order/
+"POST /api/create-order/ HTTP/1.1" 401 27
+"POST /api/create-order/ HTTP/1.1" 200 67
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 615
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/2/ HTTP/1.1" 200 292
+"GET /api/campaigns/2/ HTTP/1.1" 200 292
+"POST /api/create-order/ HTTP/1.1" 200 68
+"POST /api/verify-payment/ HTTP/1.1" 200 98
+Unauthorized: /api/my-donations/
+"GET /api/my-donations/ HTTP/1.1" 401 27
+Unauthorized: /api/my-donations/
+"GET /api/my-donations/ HTTP/1.1" 401 27
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/campaigns/1/ HTTP/1.1" 200 320
+"GET /api/campaigns/1/ HTTP/1.1" 200 320
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"OPTIONS /api/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/profile/ HTTP/1.1" 200 0
+"GET /api/profile/ HTTP/1.1" 200 183
+"GET /api/profile/ HTTP/1.1" 200 183
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 618
+Not Found: /api/gallery/
+"GET /api/gallery/ HTTP/1.1" 404 6955
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/gallery/ HTTP/1.1" 200 2
+"GET /api/gallery/ HTTP/1.1" 200 2
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 18850
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/gallery/ HTTP/1.1" 200 15564
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/gallery/add/ HTTP/1.1" 200 16350
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/gallery/add/ HTTP/1.1" 200 16574
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /admin/ngo/gallery/add/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 1984, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 1843, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 1900, in _changeform_view
+    self.log_addition(request, new_object, change_message)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 953, in log_addition
+    return LogEntry.objects.log_actions(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        user_id=request.user.pk,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        single_object=True,
+        ^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\models.py", line 89, in log_actions
+    object_repr=str(obj)[:200],
+                ~~~^^^^^
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py", line 149, in __str__
+    return self.title
+           ^^^^^^^^^^
+AttributeError: 'Gallery' object has no attribute 'title'
+"POST /admin/ngo/gallery/add/ HTTP/1.1" 500 136251
+"GET /admin/ngo/gallery/add/ HTTP/1.1" 200 15088
+Internal Server Error: /admin/ngo/gallery/add/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 1984, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 1843, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 1900, in _changeform_view
+    self.log_addition(request, new_object, change_message)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\options.py", line 953, in log_addition
+    return LogEntry.objects.log_actions(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        user_id=request.user.pk,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        single_object=True,
+        ^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\models.py", line 89, in log_actions
+    object_repr=str(obj)[:200],
+                ~~~^^^^^
+  File "c:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py", line 149, in __str__
+    return self.title
+           ^^^^^^^^^^
+AttributeError: 'Gallery' object has no attribute 'title'
+"POST /admin/ngo/gallery/add/ HTTP/1.1" 500 136017
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ngo/gallery/add/ HTTP/1.1" 200 15088
+"POST /admin/ngo/gallery/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/gallery/add/ HTTP/1.1" 200 15329
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/gallery/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/gallery/add/ HTTP/1.1" 200 15329
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/gallery/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/gallery/add/ HTTP/1.1" 200 15329
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/gallery/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/gallery/ HTTP/1.1" 200 18896
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/gallery/ HTTP/1.1" 200 449
+"GET /api/gallery/ HTTP/1.1" 200 449
+"GET /media/gallery/garibi4.jpg HTTP/1.1" 200 46143
+"GET /media/gallery/garibi1_lTYctfT.jpg HTTP/1.1" 200 58707
+"GET /media/gallery/garibi2.jpg HTTP/1.1" 200 31554
+"GET /media/gallery/garibi3.jpg HTTP/1.1" 200 39841
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/profile/ HTTP/1.1" 200 183
+"GET /api/profile/ HTTP/1.1" 200 183
+"OPTIONS /api/profile/update/ HTTP/1.1" 200 0
+"PUT /api/profile/update/ HTTP/1.1" 200 203
+"GET /api/profile/ HTTP/1.1" 200 203
+"GET /api/profile/ HTTP/1.1" 200 203
+"GET /api/profile/ HTTP/1.1" 200 203
+"GET /api/profile/ HTTP/1.1" 200 203
+"PUT /api/profile/update/ HTTP/1.1" 200 195
+"GET /api/profile/ HTTP/1.1" 200 195
+"GET /api/profile/ HTTP/1.1" 200 195
+"GET /api/profile/ HTTP/1.1" 200 195
+"GET /api/profile/ HTTP/1.1" 200 195
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 618
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 18850
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/add/ HTTP/1.1" 200 18382
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/campaign/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 19589
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 200 46143
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 200 34843
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 200 156177
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 200 46143
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/gallery/ HTTP/1.1" 200 449
+"GET /api/gallery/ HTTP/1.1" 200 449
+"GET /media/gallery/garibi4.jpg HTTP/1.1" 304 0
+"GET /media/gallery/garibi3.jpg HTTP/1.1" 304 0
+"GET /media/gallery/garibi2.jpg HTTP/1.1" 304 0
+"GET /media/gallery/garibi1_lTYctfT.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/profile/ HTTP/1.1" 200 195
+"GET /api/profile/ HTTP/1.1" 200 195
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"OPTIONS /api/campaigns/2/ HTTP/1.1" 200 0
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"GET /api/events/ HTTP/1.1" 200 2
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"GET /api/news/ HTTP/1.1" 200 2
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 19387
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2528
+"OPTIONS /api/campaigns/2/ HTTP/1.1" 200 0
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+Internal Server Error: /api/events/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: ngo_event.category
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: ngo_event.category
+"GET /api/events/ HTTP/1.1" 500 176117
+Internal Server Error: /api/events/
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: ngo_event.category
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Rahul Public\AppData\Roaming\Python\Python313\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: ngo_event.category
+"GET /api/events/ HTTP/1.1" 500 176117
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2477
+"GET /admin/ HTTP/1.1" 200 18251
+"GET /admin/ HTTP/1.1" 200 18251
+"GET /admin/ngo/news/ HTTP/1.1" 200 15424
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/newsletter/ HTTP/1.1" 200 15615
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/newsletter/add/ HTTP/1.1" 200 15101
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/news/ HTTP/1.1" 200 15424
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/news/add/ HTTP/1.1" 200 17124
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/news/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/news/ HTTP/1.1" 200 17570
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /media/news/garibi3.jpg HTTP/1.1" 200 39841
+"GET /admin/ngo/event/ HTTP/1.1" 200 16150
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/event/add/ HTTP/1.1" 200 18614
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 18616
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/events/ HTTP/1.1" 200 256
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 256
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /media/news/garibi3.jpg HTTP/1.1" 304 0
+"GET /media/events/garibi1.jpg HTTP/1.1" 200 58707
+"GET /admin/ngo/event/1/change/ HTTP/1.1" 200 19016
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/1/change/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 18619
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/events/ HTTP/1.1" 200 257
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/events/ HTTP/1.1" 200 257
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /media/events/garibi1.jpg HTTP/1.1" 304 0
+"GET /admin/ngo/event/add/ HTTP/1.1" 200 18614
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 200 18892
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 200 18917
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 19110
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /media/events/garibi1.jpg HTTP/1.1" 304 0
+"GET /media/news/garibi3.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /media/events/garibi1.jpg HTTP/1.1" 304 0
+"GET /media/news/garibi3.jpg HTTP/1.1" 304 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/events/ HTTP/1.1" 200 497
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"GET /api/events/ HTTP/1.1" 200 497
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 304 0
+"GET /media/events/garibi1.jpg HTTP/1.1" 304 0
+"GET /media/news/garibi3.jpg HTTP/1.1" 304 0
+"OPTIONS /api/campaigns/2/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/2/ HTTP/1.1" 200 0
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /media/events/garibi1.jpg HTTP/1.1" 304 0
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 304 0
+"GET /media/news/garibi3.jpg HTTP/1.1" 304 0
+"OPTIONS /api/my-donations/ HTTP/1.1" 200 0
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/my-donations/ HTTP/1.1" 200 1355
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /media/events/garibi1.jpg HTTP/1.1" 304 0
+"GET /media/news/garibi3.jpg HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2477
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2528
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /media/campaigns/3_CiDf48P.jpg HTTP/1.1" 200 34843
+"GET /media/campaigns/garibi4.jpg HTTP/1.1" 200 46143
+"GET /media/campaigns/elaneer-payasam.jpg HTTP/1.1" 200 156177
+"GET /media/events/garibi1.jpg HTTP/1.1" 200 58707
+"GET /media/news/garibi3.jpg HTTP/1.1" 200 39841
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 14699
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"OPTIONS /api/campaigns/2/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/2/ HTTP/1.1" 200 0
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/campaigns/2/ HTTP/1.1" 200 295
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/gallery/ HTTP/1.1" 200 449
+"GET /api/gallery/ HTTP/1.1" 200 449
+"GET /media/gallery/garibi2.jpg HTTP/1.1" 200 31554
+"GET /media/gallery/garibi3.jpg HTTP/1.1" 200 39841
+"GET /media/gallery/garibi1_lTYctfT.jpg HTTP/1.1" 200 58707
+"GET /media/gallery/garibi4.jpg HTTP/1.1" 200 46143
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /admin/ngo/event/ HTTP/1.1" 200 18913
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /admin/ngo/event/2/change/ HTTP/1.1" 200 19004
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+"GET /api/campaigns/ HTTP/1.1" 200 897
+"GET /api/events/ HTTP/1.1" 200 497
+"GET /api/news/ HTTP/1.1" 200 204
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2477
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 14699
+"GET /admin/ngo/event/ HTTP/1.1" 200 16150
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/event/add/ HTTP/1.1" 200 18614
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 200 18901
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 200 18910
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 18609
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /media/events/garibi1_ac0QAGu.jpg HTTP/1.1" 200 58707
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /media/events/garibi1_ac0QAGu.jpg HTTP/1.1" 304 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /media/events/garibi1_ac0QAGu.jpg HTTP/1.1" 304 0
+"GET /api/gallery/ HTTP/1.1" 200 2
+"GET /api/gallery/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+Watching for file changes with StatReloader
+"GET /admin/ngo/event/ HTTP/1.1" 200 18415
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ngo/event/ HTTP/1.1" 200 19320
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/homecontent/ HTTP/1.1" 200 14715
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/homecontent/add/ HTTP/1.1" 200 16108
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/homecontent/add/ HTTP/1.1" 200 16514
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/homecontent/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/homecontent/ HTTP/1.1" 200 16961
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngobackend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /admin/ngo/homecontent/ HTTP/1.1" 200 14804
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"POST /admin/ngo/homecontent/ HTTP/1.1" 302 0
+"GET /admin/ngo/homecontent/ HTTP/1.1" 200 14857
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/homecontent/add/ HTTP/1.1" 200 15460
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/homecontent/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/homecontent/ HTTP/1.1" 200 16701
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"OPTIONS /api/home-content/ HTTP/1.1" 200 0
+"OPTIONS /api/home-content/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /media/events/garibi1_ac0QAGu.jpg HTTP/1.1" 304 0
+"GET /media/videos/WhatsApp_Video_2025-11-17_at_15.32.49.mp4 HTTP/1.1" 304 0
+- Broken pipe from ('127.0.0.1', 11676)
+"GET /media/videos/WhatsApp_Video_2025-11-17_at_15.32.49.mp4 HTTP/1.1" 200 5509030
+"GET /api/gallery/ HTTP/1.1" 200 2
+"GET /api/gallery/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /media/videos/WhatsApp_Video_2025-11-17_at_15.32.49.mp4 HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"OPTIONS /api/learn-more-content/ HTTP/1.1" 200 0
+"OPTIONS /api/learn-more-content/ HTTP/1.1" 200 0
+"GET /api/learn-more-content/ HTTP/1.1" 200 0
+"GET /api/learn-more-content/ HTTP/1.1" 200 0
+"OPTIONS /api/my-donations/ HTTP/1.1" 200 0
+"OPTIONS /api/my-donations/ HTTP/1.1" 200 0
+Unauthorized: /api/my-donations/
+"GET /api/my-donations/ HTTP/1.1" 401 27
+Unauthorized: /api/my-donations/
+"GET /api/my-donations/ HTTP/1.1" 401 27
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /media/videos/WhatsApp_Video_2025-11-17_at_15.32.49.mp4 HTTP/1.1" 304 0
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/learn-more-content/ HTTP/1.1" 200 0
+"GET /api/learn-more-content/ HTTP/1.1" 200 0
+Unauthorized: /api/my-donations/
+"GET /api/my-donations/ HTTP/1.1" 401 27
+Unauthorized: /api/my-donations/
+"GET /api/my-donations/ HTTP/1.1" 401 27
+"GET /api/learn-more-content/ HTTP/1.1" 200 0
+"GET /api/learn-more-content/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /media/videos/WhatsApp_Video_2025-11-17_at_15.32.49.mp4 HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/home-content/ HTTP/1.1" 200 88
+"OPTIONS /api/donation-categories/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+"GET /api/events/ HTTP/1.1" 200 242
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /media/videos/WhatsApp_Video_2025-11-17_at_15.32.49.mp4 HTTP/1.1" 304 0
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /media/videos/WhatsApp_Video_2025-11-17_at_15.32.49.mp4 HTTP/1.1" 304 0
+"GET /api/learn-more-content/ HTTP/1.1" 200 0
+"GET /api/learn-more-content/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/events/ HTTP/1.1" 200 242
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/home-content/ HTTP/1.1" 200 88
+Unauthorized: /api/my-donations/
+"GET /api/my-donations/ HTTP/1.1" 401 27
+Unauthorized: /api/my-donations/
+"GET /api/my-donations/ HTTP/1.1" 401 27
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/news/ HTTP/1.1" 200 2
+Unauthorized: /api/my-donations/
+"GET /api/my-donations/ HTTP/1.1" 401 27
+Unauthorized: /api/my-donations/
+"GET /api/my-donations/ HTTP/1.1" 401 27
+"GET /api/learn-more-content/ HTTP/1.1" 200 0
+"GET /api/learn-more-content/ HTTP/1.1" 200 0
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/events/ HTTP/1.1" 200 242
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /media/videos/WhatsApp_Video_2025-11-17_at_15.32.49.mp4 HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/events/ HTTP/1.1" 200 242
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+Not Found: /api/donation-categories/
+"GET /api/donation-categories/ HTTP/1.1" 404 8389
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/news/ HTTP/1.1" 200 0
+"OPTIONS /api/campaigns/ HTTP/1.1" 200 0
+"OPTIONS /api/events/ HTTP/1.1" 200 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/donation-categories/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /media/events/garibi1_ac0QAGu.jpg HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /admin/ngo/homecontent/ HTTP/1.1" 200 16946
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/donation-categories/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/donation-categories/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /admin/ngo/homecontent/ HTTP/1.1" 200 16946
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donationcategory/ HTTP/1.1" 200 15217
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donationcategory/add/ HTTP/1.1" 200 20452
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/donationcategory/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/donationcategory/ HTTP/1.1" 200 17200
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donationcategory/1/change/ HTTP/1.1" 200 20987
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/donationcategory/1/change/ HTTP/1.1" 302 0
+"GET /admin/ngo/donationcategory/ HTTP/1.1" 200 17205
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /media/categories/garibi3.jpg HTTP/1.1" 200 39841
+"OPTIONS /api/donation-categories/1/ HTTP/1.1" 200 0
+"OPTIONS /api/donation-categories/1/ HTTP/1.1" 200 0
+"GET /api/donation-categories/1/ HTTP/1.1" 200 198
+"GET /media/categories/garibi3.jpg HTTP/1.1" 304 0
+"GET /api/donation-categories/1/ HTTP/1.1" 200 198
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/home-content/ HTTP/1.1" 200 88
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/stats/ HTTP/1.1" 200 0
+"OPTIONS /api/stats/ HTTP/1.1" 200 0
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /media/categories/garibi3.jpg HTTP/1.1" 304 0
+"GET /admin/ngo/donationcategory/ HTTP/1.1" 200 17374
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 17781
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/add/ HTTP/1.1" 200 20153
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /admin/ngo/stats/ HTTP/1.1" 200 15532
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/stats/add/ HTTP/1.1" 200 18359
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/donation-categories/1/ HTTP/1.1" 200 198
+"GET /media/categories/garibi3.jpg HTTP/1.1" 304 0
+"GET /api/donation-categories/1/ HTTP/1.1" 200 198
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/donation-categories/ HTTP/1.1" 200 153
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 17781
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donationcategory/ HTTP/1.1" 200 17374
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donationcategory/1/change/ HTTP/1.1" 200 21390
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donationcategory/1/delete/ HTTP/1.1" 200 15584
+"POST /admin/ngo/donationcategory/1/delete/ HTTP/1.1" 302 0
+"GET /admin/ngo/donationcategory/ HTTP/1.1" 200 15794
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/donationcategory/add/ HTTP/1.1" 200 20851
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/donationcategory/add/ HTTP/1.1" 200 21114
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/donationcategory/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/donationcategory/add/ HTTP/1.1" 200 21124
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/donationcategory/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/donationcategory/add/ HTTP/1.1" 200 21125
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/donationcategory/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/donationcategory/add/ HTTP/1.1" 200 21129
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/donationcategory/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/donationcategory/ HTTP/1.1" 200 18941
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /media/categories/total-campaign.png HTTP/1.1" 200 1910
+"GET /media/categories/totalcampaign4.png HTTP/1.1" 200 2057
+"GET /media/categories/totalcampaign3.png HTTP/1.1" 200 1966
+"GET /media/categories/totalcampaign2.png HTTP/1.1" 200 2143
+"OPTIONS /api/donation-categories/3/ HTTP/1.1" 200 0
+"OPTIONS /api/donation-categories/3/ HTTP/1.1" 200 0
+"GET /api/donation-categories/3/ HTTP/1.1" 200 201
+"GET /media/categories/totalcampaign2.png HTTP/1.1" 304 0
+"GET /api/donation-categories/3/ HTTP/1.1" 200 201
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /media/categories/totalcampaign3.png HTTP/1.1" 304 0
+"GET /media/categories/total-campaign.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign4.png HTTP/1.1" 304 0
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/events/ HTTP/1.1" 200 242
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /admin/ngo/event/ HTTP/1.1" 200 20186
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 20311
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-alert.svg HTTP/1.1" 200 504
+"POST /admin/ngo/event/ HTTP/1.1" 200 15609
+"POST /admin/ngo/event/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 18056
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/event/add/ HTTP/1.1" 200 20385
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 200 20733
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/event/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/event/ HTTP/1.1" 200 20522
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /api/campaigns/ HTTP/1.1" 200 2
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /media/categories/total-campaign.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign2.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign3.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign4.png HTTP/1.1" 304 0
+"GET /media/events/event-big.png HTTP/1.1" 200 138445
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 17781
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/campaign/add/ HTTP/1.1" 200 20153
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/campaign/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/campaign/ HTTP/1.1" 200 20330
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/campaigns/ HTTP/1.1" 200 298
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/categories/totalcampaign3.png HTTP/1.1" 304 0
+"GET /media/categories/total-campaign.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign2.png HTTP/1.1" 304 0
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /media/events/event-big.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign4.png HTTP/1.1" 304 0
+"GET /media/campaigns/collectfund.png HTTP/1.1" 200 242626
+"GET /api/campaigns/ HTTP/1.1" 200 298
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngobackend\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Rahul Public\Desktop\ngo backend\ngobackend\ngo\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/donation-categories/2/ HTTP/1.1" 200 0
+"OPTIONS /api/donation-categories/2/ HTTP/1.1" 200 0
+"GET /api/donation-categories/2/ HTTP/1.1" 200 204
+"GET /api/donation-categories/2/ HTTP/1.1" 200 204
+"GET /media/categories/total-campaign.png HTTP/1.1" 304 0
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 298
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /media/categories/totalcampaign2.png HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 298
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /media/categories/totalcampaign3.png HTTP/1.1" 304 0
+"GET /media/campaigns/collectfund.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign4.png HTTP/1.1" 304 0
+"GET /media/events/event-big.png HTTP/1.1" 304 0
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /media/videos/WhatsApp_Video_2025-11-17_at_15.32.49.mp4 HTTP/1.1" 304 0
+"GET /api/donation-categories/3/ HTTP/1.1" 200 201
+"GET /api/donation-categories/3/ HTTP/1.1" 200 201
+"GET /api/campaigns/ HTTP/1.1" 200 298
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/campaigns/ HTTP/1.1" 200 298
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/stats/ HTTP/1.1" 200 87
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /admin/ngo/stats/ HTTP/1.1" 200 15518
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ngo/stats/add/ HTTP/1.1" 200 18345
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ngo/stats/add/ HTTP/1.1" 302 0
+"GET /admin/ngo/stats/ HTTP/1.1" 200 17830
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/campaigns/ HTTP/1.1" 200 298
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/stats/ HTTP/1.1" 200 82
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/campaigns/ HTTP/1.1" 200 298
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/stats/ HTTP/1.1" 200 82
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /media/categories/totalcampaign4.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign3.png HTTP/1.1" 304 0
+"GET /media/categories/total-campaign.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign2.png HTTP/1.1" 304 0
+"GET /media/campaigns/collectfund.png HTTP/1.1" 304 0
+"GET /media/events/event-big.png HTTP/1.1" 304 0
+"GET /api/campaigns/ HTTP/1.1" 200 298
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/stats/ HTTP/1.1" 200 82
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/campaigns/ HTTP/1.1" 200 298
+"GET /api/events/ HTTP/1.1" 200 320
+"GET /api/home-content/ HTTP/1.1" 200 88
+"GET /api/donation-categories/ HTTP/1.1" 200 629
+"GET /api/news/ HTTP/1.1" 200 2
+"GET /api/stats/ HTTP/1.1" 200 82
+"GET /media/categories/totalcampaign2.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign3.png HTTP/1.1" 304 0
+"GET /media/categories/total-campaign.png HTTP/1.1" 304 0
+"GET /media/events/event-big.png HTTP/1.1" 304 0
+"GET /media/categories/totalcampaign4.png HTTP/1.1" 304 0
+"GET /media/campaigns/collectfund.png HTTP/1.1" 304 0
+"GET /admin/auth/user/ HTTP/1.1" 200 19457
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/auth/user/1/change/ HTTP/1.1" 200 35254
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15845
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /admin/auth/user/ HTTP/1.1" 200 19457

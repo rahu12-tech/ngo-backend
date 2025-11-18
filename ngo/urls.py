@@ -1,0 +1,31 @@
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('auth/register/', views.register, name='register'),
+    path('auth/login/', views.login, name='login'),
+    path('campaigns/', views.CampaignListView.as_view(), name='campaigns'),
+    path('campaigns/<int:pk>/', views.CampaignDetailView.as_view(), name='campaign-detail'),
+    path('events/', views.EventListView.as_view(), name='events'),
+    path('news/', views.NewsListView.as_view(), name='news'),
+    path('newsletter/', views.NewsletterListView.as_view(), name='newsletter'),
+    path('donations/', views.DonationListView.as_view(), name='donations'),
+    path('contact/', views.contact_submit, name='contact'),
+    path('newsletter/subscribe/', views.newsletter_subscribe, name='newsletter-subscribe'),
+    path('events/register/', views.event_register, name='event-register'),
+    path('comments/', views.CommentListView.as_view(), name='comments'),
+    path('profile/', views.get_profile, name='get_profile'),
+    path('profile/update/', views.update_profile, name='update_profile'),
+    path('my-donations/', views.my_donations, name='my_donations'),
+    path('create-order/', views.create_order, name='create_order'),
+    path('verify-payment/', views.verify_payment, name='verify_payment'),
+    path('gallery/', views.gallery_list, name='gallery_list'),
+    path('home-content/', views.HomeContentView.as_view(), name='home_content'),
+    path('learn-more-content/', views.LearnMoreContentView.as_view(), name='learn_more_content'),
+    path('admin/home-content/', views.AdminHomeContentView.as_view(), name='admin_home_content'),
+    path('admin/learn-more-content/', views.AdminLearnMoreContentView.as_view(), name='admin_learn_more_content'),
+    path('donation-categories/', views.DonationCategoriesView.as_view(), name='donation_categories'),
+    path('donation-categories/<int:pk>/', views.DonationCategoryDetailView.as_view(), name='donation_category_detail'),
+    path('stats/', views.StatsView.as_view(), name='stats'),
+    path('admin/stats/', views.AdminStatsView.as_view(), name='admin_stats'),
+]
